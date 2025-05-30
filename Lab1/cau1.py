@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Đọc ảnh gốc
-image = cv2.imread('b4e82079-95af-4983-85a4-def71bff24e8.png')
+image = cv2.imread('bird.png')
 
 # Kiểm tra nếu ảnh không được nạp đúng
 if image is None:
